@@ -6,6 +6,7 @@ cp : to copy file
 cat : to display contents of file and to concatenate files and to write to file
 mv : to rename files
 nano : to open file in a text editor
+find -name
 
 git commands used:
 
